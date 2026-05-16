@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "brvenicasmp814.mcsh.io",
-    "port": 14168,
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
